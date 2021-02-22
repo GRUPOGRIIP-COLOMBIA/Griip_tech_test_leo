@@ -1,3 +1,5 @@
+<a href='https://griip.herokuapp.com'><h2>https://griip.herokuapp.com</h2></a>
+
 <h4 align="center"> A web app that allows you to manage reminders.</h4>
 
 <p align="center">
@@ -16,7 +18,7 @@ To clone and run this application, you will need some env keys, ask them at cifu
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Kuinoso/griip-tect-test.git
+$ git clone https://github.com/GRUPOGRIIP-COLOMBIA/Griip_tech_test_leo.git
 
 # Go into the repository
 $ cd griip-tect-test
