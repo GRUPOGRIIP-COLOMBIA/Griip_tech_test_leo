@@ -1,0 +1,2 @@
+export const GET_REMINDERS = 'GET_REMINDERS';
+export const GET_REMINDER = 'GET_REMINDER';
